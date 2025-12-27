@@ -2,7 +2,7 @@
 
 About Me
 
-I’m SKyy Prajapati, a passionate Full-Stack Web Developer with hands-on experience in building real-world, production-ready applications using the MERN stack (MongoDB, Express.js, React, Node.js).
+I’m Anant Prajapati, a passionate Full-Stack Web Developer with hands-on experience in building real-world, production-ready applications using the MERN stack (MongoDB, Express.js, React, Node.js).
 
 I enjoy turning ideas into complete digital products — from designing clean, modern UIs to building secure and scalable backend systems. I have worked on full-fledged projects like an ecommerce platform, where I implemented features such as user authentication, role-based dashboards, payment integration, email notifications, AI-powered functionalities, and production-level deployment.
 
