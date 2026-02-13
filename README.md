@@ -2,7 +2,7 @@
 
 I’m Anant Prajapati, a Full-Stack Web Developer experienced in building production-ready applications using the MERN stack. I enjoy creating complete digital products, from modern UI design to secure and scalable backend systems.
 
-I’ve worked on real-world projects like an ecommerce platform with features such as authentication, role-based dashboards, payments, email notifications, AI integration, and deployment. Alongside development, I’m strengthening my DSA skills in Java and learning Machine Learning with Python.
+I’ve worked on real-world projects like an ecommerce platform with features such as authentication, role-based dashboards, payments, email notifications, AI integration, and deployment. Alongside development, I’m strengthening my DSA skills in Java.
 
 I’m passionate about AI-powered web apps, backend optimization, and performance-driven development, and I believe in learning by building and improving continuously.
 
